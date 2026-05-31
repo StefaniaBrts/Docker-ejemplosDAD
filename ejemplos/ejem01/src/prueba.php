@@ -1,4 +1,3 @@
 <?php
-echo ('<h1>Mi fichero PHP</h1>');
-echo ('<p>Mas info</p>');
-echo ('<p>Mas infoas</p>');
+echo ('<h1>¡Hola desde PHP!</h1>');
+echo ('<p>Stefania Britos, Actividad DAD :)</p>');
